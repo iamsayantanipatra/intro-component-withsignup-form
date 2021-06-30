@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/iamsayantanipatra/intro-component-withsignup-form)
+- Live Site URL: [live site URL](https://introcomponentwithsignupform-bysayantanipatra.netlify.app/)
 
 ### Built with
 
@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iamsayantanipatra)
+- Website - [SAYANTANI PATRA](https://github.com/iamsayantanipatra/)
+- Frontend Mentor - [@iamsayantanipatra](https://www.frontendmentor.io/profile/iamsayantanipatra)
